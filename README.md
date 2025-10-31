@@ -1,1 +1,3 @@
 # Trabajo-analisis-de-datos
+En este proyecto he analizado la evolución de ventas de varias marcas y modelos de coche desde el año 2020 hasta el año 2024, esto lo he hecho para comprobar la evolución que está teniendo el sector del automóvil en el que cada vez hay más dudas por parte de los usuarios a la hora de comprar un coche. Este analisis ayuda a los concesionarios, sobre todo compra-venta, a comprar coches que tengan mejor aceptación en el mercado, también hemos visto la diferencia de una ciudad a otra, el tipo de combustible, el precio, la edad de compra de los clientes y si es autómatico o manual.
+Para esto hemos descargado un archivo CSV y lo hemos transformado a excel, para después proceder a la limpieza de datos, en este caso solamente los duplicados
